@@ -9,7 +9,7 @@ load_dotenv()
 from embed import retrieve
 
 MODEL = "llama-3.3-70b-versatile"
-TOP_K = 6
+TOP_K = 5
 
 SYSTEM_PROMPT = """You are a helpful guide for incoming freshmen / transfer students at the University of Washington Seattle.
 Answer the question using ONLY the information provided in the context documents below. Do not be verbose, preferably respond to the query in 2-3 sentences.
