@@ -85,8 +85,8 @@ more context length doesn't matter here as bigger chunks would just mean probabl
 | 1   | what does McMahon Hall have that other dorms don't?                            | McMahon has clusters of 8 people sharing a common room and balcony, and housekeepers clean the shared bathroom and common room |
 | 2   | what day does school get out for Fall quarter 2026                             | December 18, 2026                                                                                                              |
 | 3   | most popular things to do near Seattle                                         | Gas Works Park, the UW Arboretum, and Alki Beach West Seattle                                                                  |
-| 4   | what are the most recommended food spots on the Ave near UW?                   | Saigon Deli, Aladdin's, Xi'an Noodles,                                                                                         |
-| 5   | what is the best way way for out-of-state students to save money on UW tuition | Go to a Washington community college for then transfer to UW as an in-state student - saves a lot in tuition                   |
+| 4   | what are the most recommended food spots on the Ave near UW?                   | Saigon Deli, Aladdin's, sizzle & crunch                                                                                        |
+| 5   | what is the best way way for out-of-state students to save money on UW tuition | Go to a Washington community college for then transfer to UW as an in-state student - saves a lot in tuition|
 
 ---
 

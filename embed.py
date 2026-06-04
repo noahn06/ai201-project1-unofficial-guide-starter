@@ -27,7 +27,6 @@ def build_vectorstore():
 
     client = chromadb.PersistentClient(path=CHROMA_DIR)
 
-    # Delete existing collection so re-runs start fresh
     try:
         client.delete_collection(COLLECTION_NAME)
     except Exception:
@@ -63,10 +62,10 @@ def retrieve(query: str, k: int = 5) -> list[dict]:
     Return the top-k most relevant chunks for a query.
 
     Each result dict contains:
-        text       — the chunk content
-        source     — source filename
+        text        — the chunk content
+        source      — source filename
         chunk_index — position of chunk within its document
-        score      — cosine distance (lower = more similar)
+        score       — cosine distance (lower = more similar)
     """
     model = SentenceTransformer(EMBED_MODEL)
     query_embedding = model.encode(query, convert_to_list=True)
@@ -100,7 +99,6 @@ if __name__ == "__main__":
         print(f"ChromaDB already exists at ./{CHROMA_DIR}/ — skipping rebuild.")
         print("Delete the folder and re-run to rebuild.\n")
 
-    # Milestone 4 verification query from planning.md
     query = "what are the most recommended cheap food spots on the Ave near UW?"
     print(f"\nQuery: '{query}'\n")
     results = retrieve(query, k=5)
