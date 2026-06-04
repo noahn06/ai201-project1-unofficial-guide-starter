@@ -45,8 +45,8 @@ css = f"""
     #settings-btn {{ display: none !important; }}
 """
 
-with gr.Blocks(title="Unofficial Guide to UW Seattle") as demo:
-    gr.Markdown("# 🐾 Unofficial Guide to UW Seattle")
+with gr.Blocks(title="Freshman's Unofficial Guide to UW Seattle") as demo:
+    gr.Markdown("# 🐾 Freshman's Unofficial Guide to UW Seattle")
     gr.Markdown(
         "Ask anything about UW Seattle — dorms, dining, classes, costs, things to do. "
         "Answers are sourced from real Reddit threads and official UW documents."

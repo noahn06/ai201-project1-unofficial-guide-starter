@@ -58,7 +58,7 @@ if __name__ == "__main__":
         "what are the most popular things to do near Seattle?",
         "what are the most recommended cheap food spots on the Ave near UW?",
         "what is the best way for out-of-state students to save money on UW tuition?",
-        "how can i meet dubs the husky the dog mascot of the school?"
+        "How can I meet Dubs the Husky the dog mascot of the school?"
     ]
 
     for q in eval_questions:
