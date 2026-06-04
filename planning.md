@@ -83,9 +83,9 @@ more context length doesn't matter here as bigger chunks would just mean probabl
 | #   | Question                                                                       | Expected answer                                                                                                                    |
 | --- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | what does McMahon Hall have that other dorms don't?                            | McMahon has clusters of 8 people sharing a common room and balcony, and housekeepers clean the shared bathroom and common room     |
-| 2   | what do students say the dining hall is serving as a vegetable the most ?      | broccolini                                                                                                                         |
+| 2   | what day does school get out for Fall quarter 2026                               | December 11, 2026
 | 3   | most popular things to do near Seattle                                         | Gas Works Park, the UW Arboretum, Volunteer Park, and Alki Beach West Seattle                                                      |
-| 4   | what are the most recommended cheap food spots on the Ave near UW?             | Saigon Deli for banh mi, Aladdin's for gyros/shawarma, Sizzle & Crunch, Xi'an Noodles,                                             |
+| 4   | what are the most recommended food spots on the Ave near UW?             | Saigon Deli for banh mi, Aladdin's for gyros/shawarma, Sizzle & Crunch, Xi'an Noodles,                                             |
 | 5   | what is the best way way for out-of-state students to save money on UW tuition | Go to a Washington community college for two years first, then transfer to UW as an in-state student — saves over $160k in tuition |
 
 ---
